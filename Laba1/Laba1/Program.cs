@@ -13,25 +13,29 @@ namespace Laba1
             //y = Convert.ToDouble(Console.ReadLine());
             //Console.WriteLine("Введи z");
             //z = Convert.ToDouble(Console.ReadLine());
-            //Console.WriteLine("Введи p");
-            //p = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Введи p");
+            p = Convert.ToDouble(Console.ReadLine());
             x = 182.5;
             y = 18.225;
             z = -0.03298;
             e = Math.Exp(1);
+            l = 0;
             double f = fd(x, y, z);
             Console.WriteLine(f);
-            
 
 
 
-            //if (x > Math.Abs(p)) l = (2 * Math.Pow(e, x)); 
-            //if (3 < x)
-            //{
-            //  if (x<Math.Abs(p)) l = Math.Abs(Math.Pow(e, x) - p);
 
-            //}
-            //if (x == Math.Abs(p)) l = Math.Pow(Math.Pow(e, x) - p, 2);
+            if (x > Math.Abs(p)) l = 2 * Math.Pow(Math.Pow(e, x),3) + 3* Math.Pow(p,2) ;
+            if (3 < x)
+            {
+                if (x < Math.Abs(p)) l = Math.Abs(Math.Pow(e, x) - p);
+
+            }
+            if (x == Math.Abs(p)) l = Math.Pow(Math.Pow(e, x) - p, 2);
+
+
+            Console.WriteLine(l);
 
         }
         static double fd (double x, double y, double z)

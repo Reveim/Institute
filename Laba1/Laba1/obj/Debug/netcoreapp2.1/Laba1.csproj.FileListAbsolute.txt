@@ -8,4 +8,3 @@ C:\Users\никита\Source\Institute\Laba1\Laba1\obj\Debug\netcoreapp2.1\Laba1
 C:\Users\никита\Source\Institute\Laba1\Laba1\obj\Debug\netcoreapp2.1\Laba1.AssemblyInfo.cs
 C:\Users\никита\Source\Institute\Laba1\Laba1\obj\Debug\netcoreapp2.1\Laba1.dll
 C:\Users\никита\Source\Institute\Laba1\Laba1\obj\Debug\netcoreapp2.1\Laba1.pdb
-C:\Users\никита\Source\Institute\Laba1\Laba1\obj\Debug\netcoreapp2.1\Laba1.csprojAssemblyReference.cache
