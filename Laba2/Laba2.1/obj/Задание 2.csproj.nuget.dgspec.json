@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\никита\\Source\\Institute\\Laba1\\Laba1\\Laba1.csproj": {}
+    "C:\\Users\\никита\\Source\\Institute\\Laba2\\Laba2.1\\Задание 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\никита\\Source\\Institute\\Laba1\\Laba1\\Laba1.csproj": {
+    "C:\\Users\\никита\\Source\\Institute\\Laba2\\Laba2.1\\Задание 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\никита\\Source\\Institute\\Laba1\\Laba1\\Laba1.csproj",
-        "projectName": "Laba1",
-        "projectPath": "C:\\Users\\никита\\Source\\Institute\\Laba1\\Laba1\\Laba1.csproj",
+        "projectUniqueName": "C:\\Users\\никита\\Source\\Institute\\Laba2\\Laba2.1\\Задание 2.csproj",
+        "projectName": "Задание 2",
+        "projectPath": "C:\\Users\\никита\\Source\\Institute\\Laba2\\Laba2.1\\Задание 2.csproj",
         "packagesPath": "C:\\Users\\никита\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\никита\\Source\\Institute\\Laba1\\Laba1\\obj\\",
+        "outputPath": "C:\\Users\\никита\\Source\\Institute\\Laba2\\Laba2.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

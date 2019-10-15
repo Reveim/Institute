@@ -1,0 +1,11 @@
+C:\Users\никита\Source\Institute\Laba2\Laba2\bin\Debug\netcoreapp2.1\Laba2.deps.json
+C:\Users\никита\Source\Institute\Laba2\Laba2\bin\Debug\netcoreapp2.1\Laba2.runtimeconfig.json
+C:\Users\никита\Source\Institute\Laba2\Laba2\bin\Debug\netcoreapp2.1\Laba2.runtimeconfig.dev.json
+C:\Users\никита\Source\Institute\Laba2\Laba2\bin\Debug\netcoreapp2.1\Laba2.dll
+C:\Users\никита\Source\Institute\Laba2\Laba2\bin\Debug\netcoreapp2.1\Laba2.pdb
+C:\Users\никита\Source\Institute\Laba2\Laba2\obj\Debug\netcoreapp2.1\Laba2.csprojAssemblyReference.cache
+C:\Users\никита\Source\Institute\Laba2\Laba2\obj\Debug\netcoreapp2.1\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\никита\Source\Institute\Laba2\Laba2\obj\Debug\netcoreapp2.1\Laba2.AssemblyInfoInputs.cache
+C:\Users\никита\Source\Institute\Laba2\Laba2\obj\Debug\netcoreapp2.1\Laba2.AssemblyInfo.cs
+C:\Users\никита\Source\Institute\Laba2\Laba2\obj\Debug\netcoreapp2.1\Laba2.dll
+C:\Users\никита\Source\Institute\Laba2\Laba2\obj\Debug\netcoreapp2.1\Laba2.pdb

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "Laba1/1.0.0": {
+      "Задание 2/1.0.0": {
         "runtime": {
-          "Laba1.dll": {}
+          "Задание 2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Laba1/1.0.0": {
+    "Задание 2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

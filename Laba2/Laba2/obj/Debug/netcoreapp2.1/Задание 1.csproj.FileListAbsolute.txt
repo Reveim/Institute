@@ -1,0 +1,10 @@
+C:\Users\никита\Source\Institute\Laba2\Laba2\bin\Debug\netcoreapp2.1\Задание 1.deps.json
+C:\Users\никита\Source\Institute\Laba2\Laba2\bin\Debug\netcoreapp2.1\Задание 1.runtimeconfig.json
+C:\Users\никита\Source\Institute\Laba2\Laba2\bin\Debug\netcoreapp2.1\Задание 1.runtimeconfig.dev.json
+C:\Users\никита\Source\Institute\Laba2\Laba2\bin\Debug\netcoreapp2.1\Задание 1.dll
+C:\Users\никита\Source\Institute\Laba2\Laba2\bin\Debug\netcoreapp2.1\Задание 1.pdb
+C:\Users\никита\Source\Institute\Laba2\Laba2\obj\Debug\netcoreapp2.1\Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\никита\Source\Institute\Laba2\Laba2\obj\Debug\netcoreapp2.1\Задание 1.AssemblyInfoInputs.cache
+C:\Users\никита\Source\Institute\Laba2\Laba2\obj\Debug\netcoreapp2.1\Задание 1.AssemblyInfo.cs
+C:\Users\никита\Source\Institute\Laba2\Laba2\obj\Debug\netcoreapp2.1\Задание 1.dll
+C:\Users\никита\Source\Institute\Laba2\Laba2\obj\Debug\netcoreapp2.1\Задание 1.pdb
